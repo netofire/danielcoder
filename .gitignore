@@ -4,7 +4,7 @@
 */cache/*
 !*/cache/index.html
 !*/cache/.htaccess
-*/.settings/*
-*/.buildpath
-*/.project
+*.settings/*
+*.buildpath
+*.project
 
