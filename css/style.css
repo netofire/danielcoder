@@ -328,6 +328,9 @@
 			form textarea {
 				min-height: 8em;
 			}
+			form #imgLoader {
+			     display: none;
+			}
 			
 			form .formerize-placeholder {
 				color: rgba(145,146,147,0.85) !important;

@@ -126,7 +126,7 @@
 					<div class="box container 75%">
 
 					<!-- Contact Form -->
-							<form method="post" id="frmContato">
+							<form method="post" id="frmContato" novalidate>
 								<div class="row 50%">
 									<div class="6u"><input id="name" type="text" name="name" placeholder="Nome" required /></div>
 									<div class="6u"><input id="email" type="email" name="email" placeholder="Email" required /></div>
@@ -138,7 +138,12 @@
 									<div class="12u">
 										<ul class="actions">
 											<li><input type="submit" id="btnEnviarForm" value="Enviar Mensagem" /></li>
-											<li id="msgRetorno" class=""></li>
+											<li>
+												<img src="images/loader.gif" id="imgLoader" />
+											</li>
+											<li id="msgRetorno" class="">
+												
+											</li>
 										</ul>
 									</div>
 								</div>
