@@ -80,9 +80,12 @@
 					<header>
 						<h2>Quem eu sou</h2>
 					</header>
-					<p>Desenvolvo para a WEB há mais de 12 anos. Estudo e sempre me mantenho atualizado com relação à internet, 
-					PHP, padrões WEB e padrões de projeto. Inovar é uma marca que carrego comigo desde
-					o princípio: <i>&quot;Não precisamos reinventar a roda, mas podemos fazê-la girar mais rápido!&quot;</i></p>
+					<p>Paulistano, 35 anos, atualmente moro em <strong>Curitiba/PR</strong>.<br>
+					Comecei na área em <strong>2003</strong> por pura e simples curiosidade sobre como era criação para a Internet.<br>
+					Eu buscava algo onde pudesse sempre <strong>aprender</strong> e <strong>inovar</strong>. 
+					E o desenvolvimento me proporciona isso.<br>
+					Com <strong>experiência</strong>, vem a certeza de que há muito a descobrir.
+					</p>
 				</div>
 				<a href="#work" class="button style2 down anchored">Próximo</a>
 			</section>
