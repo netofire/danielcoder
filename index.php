@@ -82,9 +82,8 @@
 					</header>
 					<p>Paulistano, 35 anos, atualmente moro em <strong>Curitiba/PR</strong>.<br>
 					Comecei na área em <strong>2003</strong> por pura e simples curiosidade sobre como era criação para a Internet.<br>
-					Eu buscava algo onde pudesse sempre <strong>aprender</strong> e <strong>inovar</strong>. 
-					E o desenvolvimento me proporciona isso.<br>
-					Com <strong>experiência</strong>, vem a certeza de que há muito a descobrir.
+					Eu buscava algo onde pudesse sempre <strong>aprender</strong> e <strong>inovar</strong>.<br>
+					Com a <strong>experiência</strong>, veio a realização e a certeza de que há muito ainda a descobrir.
 					</p>
 				</div>
 				<a href="#work" class="button style2 down anchored">Próximo</a>
@@ -124,7 +123,7 @@
 				<div class="content container">
 					<header>
 						<h2>Diga olá.</h2>
-						<p>Responderei o mais brevemente possível seu contato.</p>
+						<p>Envie o formulário abaixo ou, se preferir, ligue: <strong>(41)9625-4612</strong></p>
 					</header>
 					<div class="box container 75%">
 
