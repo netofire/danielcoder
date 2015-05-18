@@ -63,12 +63,11 @@
 					<header>
 						<h2>O que eu faço</h2>
 					</header>
-					<p><strong>Analiso e resolvo</strong>. Simples assim.<br> 
-					Meu contratante apresenta a necessidade.
-					Eu analiso e indico qual a solução ideal para atender a todos os objetivos pelo <strong>melhor 
-					investimento</strong> possível, com
-					foco em <strong>padrões</strong> e <strong>desempenho</strong> para Internet.<br>
-					O resultado é um produto final de <strong>excelente qualidade</strong>.
+					<p><strong>Desenvolvimento e manutenção</strong> de sistemas WEB.<br> 
+					Especialista em PHP, HTML5, CSS3, Javascript, Frameworks, MySQL, PgSQL e análise.<br>
+					Cada projeto de acordo com os objetivos do cliente, de forma a obter o <strong>menor investimento</strong> 
+					pelo <strong>melhor retorno</strong>.<br>
+					<a href="#contact">Entre em contato</a> e conheça mais!
 					</p>
 				</div>
 				<a href="#two" class="button style2 down anchored">Próximo</a>

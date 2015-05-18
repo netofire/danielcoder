@@ -555,6 +555,10 @@
 				padding: 3em 0 3em 0;
 				overflow: hidden;
 			}
+			
+			     .main.style2 a {
+	                color: #39454b;
+                }
 
 				.main.style2 .content {
 					position: relative;
