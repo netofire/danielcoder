@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Daniel Coder :: Free Lancer Web Developer</title>
+		<title>Daniel Coder :: Web Developer</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -33,8 +33,8 @@
 					<nav id="nav">
 						<ul>
 							<li><a href="#intro">Intro</a></li>
-							<li><a href="#one">O que eu faço</a></li>
-							<li><a href="#two">Quem eu sou</a></li>
+							<li><a href="#one">O que faço</a></li>
+							<li><a href="#two">Quem sou</a></li>
 							<li><a href="#work">Meu trabalho</a></li>
 							<li><a href="#contact">Contato</a></li>
 						</ul>
@@ -48,7 +48,7 @@
 					<header>
 						<h2>Daniel Coder</h2>
 					</header>
-					<p>Desenvolvedor Web <strong>free lancer</strong> especialista em 
+					<p><strong>Desenvolvedor Web</strong> especialista em 
 					análise, criação, aprimoramento e manutenção de <strong>websites, 
 					lojas virtuais e sistemas</strong> em PHP.</p>
 					<footer>
@@ -61,7 +61,7 @@
 			<section id="one" class="main style2 right dark fullscreen">
 				<div class="content box style2">
 					<header>
-						<h2>O que eu faço</h2>
+						<h2>O que faço</h2>
 					</header>
 					<p><strong>Desenvolvimento e manutenção</strong> de sistemas WEB.<br> 
 					Especialista em PHP, HTML5, CSS3, Javascript, Frameworks, MySQL, PgSQL e análise.<br>
@@ -77,9 +77,9 @@
 			<section id="two" class="main style2 left dark fullscreen">
 				<div class="content box style2">
 					<header>
-						<h2>Quem eu sou</h2>
+						<h2>Quem sou</h2>
 					</header>
-					<p>Paulistano, 35 anos, atualmente moro em <strong>Curitiba/PR</strong>.<br>
+					<p>Paulistano, 36 anos, atualmente moro em <strong>Curitiba/PR</strong>.<br>
 					Comecei na área em <strong>2003</strong> por pura e simples curiosidade sobre como era criação para a Internet.<br>
 					Eu buscava algo onde pudesse sempre <strong>aprender</strong> e <strong>inovar</strong>.<br>
 					Com a <strong>experiência</strong>, veio a realização e a certeza de que há muito ainda a descobrir.
@@ -93,23 +93,24 @@
 				<div class="content container">
 					<header>
 						<h2>Meu trabalho</h2>
-						<p>Lorem ipsum dolor sit amet et sapien sed elementum egestas dolore condimentum.
-						Fusce blandit ultrices sapien, in accumsan orci rhoncus eu. Sed sodales venenatis
-						arcu, id varius justo euismod in. Curabitur egestas consectetur magna vitae.</p>
+						<p>Características e exemplos de projetos em que participo. Hoje em dia procuro utilizar
+						ferramentas de grande produtividade e escalabilidade, tais como Bootstrap, framework Laravel e Eloquent ORM para banco de dados.
+						Para lojas, Open Cart com integração completa com meios de pagamento. Para sistemas prontos, otimização e atualização para melhoria de 
+						projeto.</p>
 					</header>
 
 					<!-- Lightbox Gallery  -->
 						<div class="container 75% gallery">
 							<div class="row 0% images">
-								<div class="6u"><a href="images/fulls/01.jpg" class="image fit from-left"><img src="images/thumbs/01.jpg" title="The Anonymous Red" alt="" /></a></div>
-								<div class="6u"><a href="images/fulls/02.jpg" class="image fit from-right"><img src="images/thumbs/02.jpg" title="Airchitecture II" alt="" /></a></div>
+								<div class="6u"><a href="images/fulls/toninho.png" class="image fit from-left"><img src="images/thumbs/toninho2.jpg" title="Back-end em Laravel 5 + Bootstrap - rapidez e escalabilidade." alt="" /></a></div>
+								<div class="6u"><a href="images/fulls/hosp.jpg" class="image fit from-right"><img src="images/thumbs/hosp.jpg" title="Configuração e Hospedagem de servidores para deixar todo projeto 100% pronto." alt="" /></a></div>
 							</div>
 							<div class="row 0% images">
-								<div class="6u"><a href="images/fulls/03.jpg" class="image fit from-left"><img src="images/thumbs/03.jpg" title="Air Lounge" alt="" /></a></div>
-								<div class="6u"><a href="images/fulls/04.jpg" class="image fit from-right"><img src="images/thumbs/04.jpg" title="Carry on" alt="" /></a></div>
+								<div class="6u"><a href="images/fulls/open2.png" class="image fit from-left"><img src="images/thumbs/open.jpg" title="Loja Virtual Open Cart completa pronta pra vender!" alt="" /></a></div>
+								<div class="6u"><a href="images/fulls/radio.png" class="image fit from-right"><img src="images/thumbs/radio2.png" title="Back + Front em Code Igniter 2.x visando fácil navegação para o público alvo." alt="" /></a></div>
 							</div>
 							<div class="row 0% images">
-								<div class="6u"><a href="images/fulls/05.jpg" class="image fit from-left"><img src="images/thumbs/05.jpg" title="The sparkling shell" alt="" /></a></div>
+								<div class="6u"><a href="images/fulls/red2.png" class="image fit from-left"><img src="images/thumbs/red.png" title="Free-Lancer para projetos em agências e empresas, home-office ou presencial." alt="" /></a></div>
 								<div class="6u"><a href="images/fulls/06.jpg" class="image fit from-right"><img src="images/thumbs/06.jpg" title="Bent IX" alt="" /></a></div>
 							</div>
 						</div>
@@ -159,12 +160,7 @@
 
 				<!-- Icons -->
 					<ul class="actions">
-						<li><a href="#" class="icon fa-google-plus"><span class="label">Google+</span></a></li>
-					</ul>
-
-				<!-- Menu -->
-					<ul class="menu">
-						<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+						<li><a href="https://br.linkedin.com/in/danielcoder" class="icon fa-linkedin" target="_blank"><span class="label">Linkedin</span></a></li>
 					</ul>
 
 			</footer>
