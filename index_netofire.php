@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Daniel Coder :: Web Developer</title>
+		<title>Netofire.com :: Web Development</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -22,20 +22,19 @@
 		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
 	</head>
 	<body>
-
 		<!-- Header -->
 			<header id="header">
 
 				<!-- Logo -->
-					<h1 id="logo">Daniel Coder</h1>
+					<h1 id="logo">Netofire.com</h1>
 
 				<!-- Nav -->
 					<nav id="nav">
 						<ul>
 							<li><a href="#intro">Intro</a></li>
-							<li><a href="#one">O que faço</a></li>
-							<li><a href="#two">Quem sou</a></li>
-							<li><a href="#work">Meu trabalho</a></li>
+							<li><a href="#one">O que fazemos</a></li>
+							<li><a href="#two">Quem somos</a></li>
+							<li><a href="#work">Nosso trabalho</a></li>
 							<li><a href="#contact">Contato</a></li>
 						</ul>
 					</nav>
@@ -46,9 +45,9 @@
 			<section id="intro" class="main style1 dark fullscreen">
 				<div class="content container 75%">
 					<header>
-						<h2>Daniel Coder</h2>
+						<h2>NetoFire</h2>
 					</header>
-					<p><strong>Desenvolvedor Web</strong> especialista em 
+					<p><strong>Desenvolvimento Web</strong> especializado em 
 					análise, criação, aprimoramento e manutenção de <strong>websites, 
 					lojas virtuais e sistemas</strong> em PHP.</p>
 					<footer>
@@ -61,10 +60,10 @@
 			<section id="one" class="main style2 right dark fullscreen">
 				<div class="content box style2">
 					<header>
-						<h2>O que faço</h2>
+						<h2>O que fazemos</h2>
 					</header>
 					<p><strong>Desenvolvimento e manutenção</strong> de sistemas WEB.<br> 
-					Especialista em PHP, HTML5, CSS3, Javascript, Frameworks, MySQL, PgSQL e análise.<br>
+					Especializado em PHP, HTML5, CSS3, Javascript, Frameworks, MySQL, PgSQL e análise.<br>
 					Cada projeto de acordo com os objetivos do cliente, de forma a obter o <strong>menor investimento</strong> 
 					pelo <strong>melhor retorno</strong>.<br>
 					<a href="#contact">Entre em contato</a> e conheça mais!
@@ -77,12 +76,12 @@
 			<section id="two" class="main style2 left dark fullscreen">
 				<div class="content box style2">
 					<header>
-						<h2>Quem sou</h2>
+						<h2>Quem somos</h2>
 					</header>
-					<p>Paulistano, 36 anos, atualmente moro em <strong>Curitiba/PR</strong>.<br>
-					Comecei na área em <strong>2003</strong> por pura e simples curiosidade sobre como era criação para a Internet.<br>
-					Eu buscava algo onde pudesse sempre <strong>aprender</strong> e <strong>inovar</strong>.<br>
-					Com a <strong>experiência</strong>, veio a realização e a certeza de que há muito ainda a descobrir.
+					<p>Daniel Neto, paulistano, 36 anos, atualmente mora em <strong>Curitiba/PR</strong> é a pessoa por trás da empresa.<br>
+					Começou na área em <strong>2003</strong> por pura e simples curiosidade sobre como era criação para a Internet.<br>
+					Buscava algo onde pudesse sempre <strong>aprender</strong> e <strong>inovar</strong>.<br>
+					Hoje, o foco é na <strong>expansão do negócio</strong> e na <strong>especialização técnica</strong>, para buscar a melhoria de processo para os clientes.
 					</p>
 				</div>
 				<a href="#work" class="button style2 down anchored">Próximo</a>
@@ -92,8 +91,8 @@
 			<section id="work" class="main style3 primary">
 				<div class="content container">
 					<header>
-						<h2>Meu trabalho</h2>
-						<p>Características e exemplos de projetos em que participo. Hoje em dia procuro utilizar
+						<h2>Nosso trabalho</h2>
+						<p>Características e exemplos de projetos em que participamos. Hoje em dia procuramos utilizar
 						ferramentas de grande produtividade e escalabilidade, tais como Bootstrap, framework Laravel e Eloquent ORM para banco de dados.
 						Para lojas, Open Cart com integração completa com meios de pagamento. Para sistemas prontos, otimização e atualização para melhoria de 
 						projeto.</p>
