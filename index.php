@@ -47,8 +47,8 @@
 					<header>
 						<h2>Daniel Coder</h2>
 					</header>
-					<p><strong>Desenvolvedor Web</strong> especialista em 
-					análise, criação, aprimoramento e manutenção de <strong>websites, 
+					<p><strong>Desenvolvedor Web</strong> especialista em
+					análise, criação, aprimoramento e manutenção de <strong>websites,
 					lojas virtuais e sistemas</strong> em PHP.</p>
 					<footer>
 						<a href="#one" class="button style2 down">Mais</a>
@@ -62,11 +62,12 @@
 					<header>
 						<h2>O que faço</h2>
 					</header>
-					<p><strong>Desenvolvimento e manutenção</strong> de sistemas WEB.<br> 
-					Especialista em PHP, HTML5, CSS3, Javascript, Frameworks, MySQL, PgSQL e análise.<br>
-					Cada projeto de acordo com os objetivos do cliente, de forma a obter o <strong>menor investimento</strong> 
-					pelo <strong>melhor retorno</strong>.<br>
-					<a href="#contact">Entre em contato</a> e conheça mais!
+					<p><strong>Desenvolvimento e manutenção</strong> de sistemas para Web nas
+					linguagens PHP, Python, Html, Css, Javascript, MySQL e MongoDb.<br>
+					<strong>Configuração e personalização</strong> das plataformas OpenCart (e-commerce) e Wordpress.<br>
+					<strong>Programação</strong> utilizando, dentre outros: Laravel, Code Igniter, Bootstrap, jQuery, Bottle, Sass e Apache.<br>
+					Cada projeto de acordo com os objetivos do cliente, de forma a obter o <strong>menor investimento</strong>
+					pelo <strong>melhor retorno</strong>.
 					</p>
 				</div>
 				<a href="#two" class="button style2 down anchored">Próximo</a>
@@ -94,7 +95,7 @@
 						<h2>Meu trabalho</h2>
 						<p>Características e exemplos de projetos em que participo. Hoje em dia procuro utilizar
 						ferramentas de grande produtividade e escalabilidade, tais como Bootstrap, framework Laravel e Eloquent ORM para banco de dados.
-						Para lojas, Open Cart com integração completa com meios de pagamento. Para sistemas prontos, otimização e atualização para melhoria de 
+						Para lojas, Open Cart com integração completa com meios de pagamento. Para sistemas prontos, otimização e atualização para melhoria de
 						projeto.</p>
 					</header>
 
@@ -129,10 +130,10 @@
 					<!-- Contact Form -->
 							<div id="fb-root"></div>
 							<script>
-							(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  
-							if (d.getElementById(id)) return;  
-							js = d.createElement(s); js.id = id;  
-							js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.3";  
+							(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];
+							if (d.getElementById(id)) return;
+							js = d.createElement(s); js.id = id;
+							js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.3";
 							fjs.parentNode.insertBefore(js, fjs);
 							}(document, 'script', 'facebook-jssdk'));
 							</script>

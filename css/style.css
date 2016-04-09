@@ -1,6 +1,6 @@
 @charset 'UTF-8';
 @import url('http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900');
-@import url('font-awesome.min.css');
+@import url('css/font-awesome.min.css');
 
 /*
 	Big Picture by HTML5 UP
@@ -331,7 +331,7 @@
 			form #imgLoader {
 			     display: none;
 			}
-			
+
 			form .formerize-placeholder {
 				color: rgba(145,146,147,0.85) !important;
 			}
@@ -555,7 +555,7 @@
 				padding: 3em 0 3em 0;
 				overflow: hidden;
 			}
-			
+
 			     .main.style2 a {
 	                color: #39454b;
                 }
