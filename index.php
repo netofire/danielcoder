@@ -22,7 +22,6 @@
 		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
 	</head>
 	<body>
-
 		<!-- Header -->
 			<header id="header">
 
@@ -123,33 +122,21 @@
 				<div class="content container">
 					<header>
 						<h2>Diga olá.</h2>
-						<p>Envie o formulário abaixo ou, se preferir, ligue: <strong>(41)9625-4612</strong></p>
+						<p>Adicione no Facebook ou, se preferir, ligue ou chame no Whatsapp: <strong>(41)9625-4612</strong></p>
 					</header>
-					<div class="box container 75%">
+					<div class="">
 
 					<!-- Contact Form -->
-							<form method="post" id="frmContato" novalidate>
-								<div class="row 50%">
-									<div class="6u"><input id="name" type="text" name="name" placeholder="Nome" required /></div>
-									<div class="6u"><input id="email" type="email" name="email" placeholder="Email" required /></div>
-								</div>
-								<div class="row 50%">
-									<div class="12u"><textarea id="message" name="message" placeholder="Mensagem" rows="6" required></textarea></div>
-								</div>
-								<div class="row">
-									<div class="12u">
-										<ul class="actions">
-											<li><input type="submit" id="btnEnviarForm" value="Enviar Mensagem" /></li>
-											<li>
-												<img src="images/loader.gif" id="imgLoader" />
-											</li>
-											<li id="msgRetorno" class="">
-												
-											</li>
-										</ul>
-									</div>
-								</div>
-							</form>
+							<div id="fb-root"></div>
+							<script>
+							(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  
+							if (d.getElementById(id)) return;  
+							js = d.createElement(s); js.id = id;  
+							js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.3";  
+							fjs.parentNode.insertBefore(js, fjs);
+							}(document, 'script', 'facebook-jssdk'));
+							</script>
+							<div class="fb-post" data-href="https://www.facebook.com/dan.net.anonymous/posts/975244055845943" data-width="500"></div>
 
 					</div>
 				</div>
