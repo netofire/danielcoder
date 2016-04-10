@@ -14,25 +14,27 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-import bottle, os
-#import cgi
+import bottle, os, base_app
 import re
 
-__author__ = 'daniel_coder'
+# Atributo de configuracao extraido do modulo base
+root_folder = base_app.application.config['root_folder'] + "/";
 
 # Rota unica site
 @bottle.route('/')
 def home_index():
     return bottle.template('home')
 
-# Rota de arquivos estaticos (css, imagens, fonts e js)
+# Rota de arquivos estaticos (css, fonts e js)
 @bottle.get("/<pasta:re:(css|js|fonts)>/<arquivo:path>")
 def static_files(pasta, arquivo):
-    return bottle.static_file(arquivo, root = "/var/www/dcoder/" + pasta)
+    return bottle.static_file(arquivo, root = root_folder + pasta)
+
+# Rota de imagens (estao em duas possiveis pastas que eu checo antes)
 @bottle.get("/images/<arquivo:path>")
 def static_images(arquivo):
-    destino = '/var/www/dcoder/images/' + arquivo
+    destino = root_folder + 'images/' + arquivo
     if os.path.isfile(destino) == True:
-        return bottle.static_file(arquivo, root = "/var/www/dcoder/images/")
+        return bottle.static_file(arquivo, root = root_folder + "images/")
     else:
-        return bottle.static_file(arquivo, root = "/var/www/dcoder/css/images/")
+        return bottle.static_file(arquivo, root = root_folder + "css/images/")

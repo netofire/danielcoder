@@ -12,12 +12,6 @@
 		<script src="js/jquery.scrollex.min.js"></script>
 		<script src="js/skel.min.js"></script>
 		<script src="js/init.js"></script>
-		<noscript>
-			<link rel="stylesheet" href="css/skel.css" />
-			<link rel="stylesheet" href="css/style.css" />
-			<link rel="stylesheet" href="css/style-wide.css" />
-			<link rel="stylesheet" href="css/style-normal.css" />
-		</noscript>
 		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
 	</head>
@@ -48,8 +42,8 @@
 						<h2>Daniel Coder</h2>
 					</header>
 					<p><strong>Desenvolvedor Web</strong> especialista em
-					análise, criação, aprimoramento e manutenção de <strong>websites,
-					lojas virtuais e sistemas</strong> em PHP.</p>
+					análise, criação, aprimoramento e manutenção de websites,
+					lojas virtuais e sistemas em <strong>PHP</strong> e <strong>Python</strong>.</p>
 					<footer>
 						<a href="#one" class="button style2 down">Mais</a>
 					</footer>

@@ -244,39 +244,7 @@
 				.load(function() {
 					$window.trigger('resize');
 				});
-			
-			
-			//enviar form
-			$('#btnEnviarForm').on('click', function(e) {
-				e.preventDefault();
-				if ($('#message').val() == '' || $('#name').val() == '' || $('#email').val() == '') {
-					$('#msgRetorno').html('Preencha todos os campos');
-					return false;
-				}
-				$('#imgLoader').show();
-				$('#msgRetorno').html('');
-				$.post('contato.php', $('#frmContato').serialize())
-				.done(function(data) {
-					try {
-						data = JSON.parse(data);
-						if (data.status) {
-							$('#msgRetorno').html('Mensagem enviada com sucesso!');
-						} else {
-							$('#msgRetorno').html('ERRO ao enviar sua mensagem! Tente novamente.');
-						}
-					} catch(e) {
-						$('#msgRetorno').html('ERRO ao enviar sua mensagem! Tente novamente.');
-					}
-				})
-				.fail(function() {
-					$('#msgRetorno').html('ERRO ao enviar sua mensagem! Tente novamente.');
-				})
-				.always(function() {
-					$('#imgLoader').hide();
-					$('input[type="text"], input[type="email"], textarea').val('');
-				});
-			});
 
 	});
-	
+
 })(jQuery);
