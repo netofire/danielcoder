@@ -117,7 +117,7 @@
 				<div class="content container">
 					<header>
 						<h2>Diga olá.</h2>
-						<p>Adicione no Facebook ou, se preferir, ligue ou chame no Whatsapp: <strong>(41)9625-4612</strong></p>
+						<p>Adicione no Facebook ou, se preferir, no Whatsapp: <strong>(41)9625-4612</strong></p>
 					</header>
 					<div class="">
 
@@ -127,11 +127,11 @@
 							(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];
 							if (d.getElementById(id)) return;
 							js = d.createElement(s); js.id = id;
-							js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.3";
+							js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.6";
 							fjs.parentNode.insertBefore(js, fjs);
 							}(document, 'script', 'facebook-jssdk'));
 							</script>
-							<div class="fb-post" data-href="https://www.facebook.com/dan.net.anonymous/posts/975244055845943" data-width="500"></div>
+							<div class="fb-post" data-href="https://www.facebook.com/socientifica/photos/a.325919970907768.1073741827.325919124241186/590961397736956/?type=3&amp;theater" data-width="500" data-show-text="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/socientifica/posts/590961397736956:0">Publicado por <a href="https://www.facebook.com/socientifica/">Sociedade Científica</a> em&nbsp;<a href="https://www.facebook.com/socientifica/posts/590961397736956:0">Sábado, 30 de abril de 2016</a></blockquote></div></div>
 
 					</div>
 				</div>
