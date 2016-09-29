@@ -10,3 +10,5 @@ Estão sendo utilizados:
 * Bottle (Python)
 * Servidor Apache com mod_wsgi
 * SO Linux
+
+Para mais informações sobre o Bottle: [http://bottlepy.org/docs/dev/index.html](http://bottlepy.org/docs/dev/index.html)
